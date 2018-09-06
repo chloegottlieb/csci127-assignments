@@ -13,5 +13,3 @@ def greeter(name):
         print('you are not a greeter. goodbye.')
         
 greeter(fillName)
-
-print('blajfkdl')
