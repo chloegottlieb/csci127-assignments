@@ -1,3 +1,12 @@
+PART 3:
+
+
+
+
+
+
+
+
 
 open terminal
 cd into cscsiassignments-127
