@@ -1,13 +1,3 @@
-PART 3:
-
-
-
-
-
-
-
-
-
 open terminal
 cd into cscsiassignments-127
 mkdir quiz-01
@@ -18,3 +8,6 @@ git add .
 git commit -m "this is a commit message"
 
 git push
+
+touch p2.py
+cat p1.py >> p2.py
