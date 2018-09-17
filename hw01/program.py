@@ -7,7 +7,6 @@ def capitalize(name):
     result = name.upper()
     return result
 
-
 print(capitalize("chloe gottlieb"))
 
 def init(name):
