@@ -5,4 +5,4 @@ def pigLatin(word):
     else:
         pig = word[1:] + word[0] + 'ay'
         return pig
-print(pigLatin('ate'))git it
+print(pigLatin('ate'))
