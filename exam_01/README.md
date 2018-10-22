@@ -1,0 +1,1 @@
+as you can see, my second function for quesstion 2 is commented out. This is because i didn't want you to have to scroll up to the first part of the question if it wound up working. If it is not currently commented out, ignore this
